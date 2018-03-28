@@ -8,7 +8,7 @@ Estonian indicators listed here: https://riigikantselei.ee/sites/default/files/c
 
 OPEN DATA REQUESTS
 
-All open data requests please post to Open Data Issue Tracker:
+Please post all open data requests to Open Data Issue Tracker:
 https://github.com/okestonia/opendata-issue-tracker/labels/SDG
 
-It's suggested to create one issue per SDG (total 17) and reference all related request there.
+It's suggested to create one issue per SDG (total 17) and reference all related requests there.
