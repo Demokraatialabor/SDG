@@ -4,7 +4,8 @@ This repo is for visualizing SDGs
 What are SDGs: http://www.un.org/sustainabledevelopment/sustainable-development-goals/
 Estonian indicators listed here: https://riigikantselei.ee/sites/default/files/content-editors/Failid/eesti_saastva_arengu_naitajate_nimekiri_20.12.2017.pdf
 
-*OPEN DATA REQUESTS*
+OPEN DATA REQUESTS
+
 All open data requests please post to Open Data Issue Tracker:
 https://github.com/okestonia/opendata-issue-tracker/labels/SDG
 
