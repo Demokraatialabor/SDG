@@ -2,6 +2,8 @@
 
 This repo is for visualizing Estonian SDGs
 
+Shiny App: https://rnd-tut.shinyapps.io/SDG_Workshop/
+
 What are SDGs: http://www.un.org/sustainabledevelopment/sustainable-development-goals/
 
 Estonian indicators listed here: https://riigikantselei.ee/sites/default/files/content-editors/Failid/eesti_saastva_arengu_naitajate_nimekiri_20.12.2017.pdf
